@@ -1,2 +1,2 @@
 # Face-Detection
-Face detection with webcam
+Face detection techniques
